@@ -1,0 +1,384 @@
+Kesha
+Take It Off
+125.0
+-0.061666666666666654
+Drake
+Over
+121.5
+0.0007058823529411951
+Neon Trees
+Animal
+148.0
+0.016999999999999987
+Maroon 5
+Misery
+103.0
+-0.08725
+B.o.B
+Magic
+ 82.5
+0.02766666666666667
+Lady GaGa
+Paparazzi
+115.0
+0.15600000000000003
+New Boyz
+Tie Me Down
+ 97.5
+0.04147826086956523
+Nicki Minaj
+Your Love
+ 95.0
+0.1398125
+Miley Cyrus
+Party In The U.S.A.
+ 96.0
+0.24849999999999997
+Chris Brown
+Deuces
+148.0
+-0.016000000000000014
+Britney Spears
+3
+135.0
+0.05600000000000001
+Shontelle
+Impossible
+ 90.0
+0.051000000000000004
+Drake
+Forever
+158.0
+-0.062
+Boys Like Girls
+Two Is Better Than One
+128.1
+0.10600000000000001
+3OH!3
+My First Kiss
+138.1
+0.14300000000000002
+Kelly Clarkson
+Already Gone
+148.0
+-0.02200000000000002
+Black Eyed Peas
+Rock That Body
+125.0
+0.010499999999999999
+OneRepublic
+Secrets
+148.0
+-0.091
+Selena Gomez
+Naturally
+132.9
+0.043764705882352935
+DJ Khaled
+All I Do Is Win
+150.0
+0.18158823529411763
+Kevin Rudolf
+I Made It (Cash Money Heroes)
+ 90.5
+0.039
+Sugarland
+Stuck Like Glue
+ 84.0
+0.062375000000000014
+Usher
+Hey Daddy (Daddy's Home)
+ 96.0
+0.109
+Usher
+There Goes My Baby
+155.0
+0.10099999999999998
+Taylor Swift
+Today Was A Fairytale
+158.0
+0.09916666666666664
+Timbaland
+Say Something
+160.0
+-0.04600000000000001
+Beyonce
+Sweet Dreams
+122.0
+0.27
+Kings of Leon
+Use Somebody
+140.4
+0.124
+Carrie Underwood
+Undo It
+156.0
+-0.045
+Sean Kingston
+Eenie Meenie
+121.2
+-0.012333333333333349
+Lil Wayne
+Right Above It
+152.0
+-0.07950000000000002
+Miranda Lambert
+The House That Built Me
+131.5
+0.010409090909090916
+The Band Perry
+If I Die Young
+131.0
+0.103
+Paramore
+The Only Exception
+138.1
+-0.039999999999999994
+Lady Antebellum
+American Honey
+ 86.0
+0.07700000000000001
+Daughtry
+Life After You
+154.0
+0.05049999999999999
+Uncle Kracker
+Smile
+141.1
+0.17
+Cali Swag District
+Teach Me How To Dougie
+ 85.0
+0.001166666666666677
+Alicia Keys
+Try Sleeping With A Broken Heart
+ 83.3
+0.0085
+Jerrod Niemann
+Lover, Lover
+112.6
+0.398
+Adele
+Rolling In The Deep
+105.0
+0.11400000000000002
+LMFAO
+Party Rock Anthem
+130.0
+0.16969230769230773
+Katy Perry
+Firework
+124.1
+0.027999999999999997
+Katy Perry
+E.T.
+151.5
+-0.10866666666666666
+Pitbull
+Give Me Everything
+129.0
+0.14950000000000002
+Bruno Mars
+Grenade
+110.4
+0.05849999999999997
+Cee-Lo
+Fuck You
+127.5
+0.15600000000000003
+Nicki Minaj
+Super Bass
+127.0
+0.020888888888888887
+Maroon 5
+Moves Like Jagger
+128.0
+0.12533333333333332
+Black Eyed Peas
+Just Can't Get Enough
+ 94.0
+0.061666666666666675
+Jennifer Lopez
+On The Floor
+130.0
+-0.01800000000000001
+Rihanna
+S&M
+128.0
+0.263
+Foster The People
+Pumped Up Kicks
+128.0
+0.17500000000000002
+Katy Perry
+Last Friday Night (T.G.I.F.)
+126.0
+0.02530769230769231
+Bruno Mars
+Just The Way You Are
+108.9
+0.19649999999999998
+Pink
+Raise Your Glass
+122.0
+-0.05018181818181817
+Lady GaGa
+Born This Way
+124.0
+0.025000000000000005
+Pink
+Fuckin' Perfect
+ 92.0
+0.214
+Chris Brown
+Look At Me Now
+100.0
+-0.008749999999999994
+Jeremih
+Down On Me
+146.0
+0.050625
+Lil Wayne
+How To Love
+160.0
+0.22600000000000003
+Adele
+Someone Like You
+154.0
+0.08166666666666669
+OneRepublic
+Good Life
+131.4
+0.0695
+Bruno Mars
+The Lazy Song
+ 95.0
+-0.009500000000000008
+Britney Spears
+Till The World Ends
+ 87.5
+0.011
+Lupe Fiasco
+The Show Goes On
+132.0
+0.05446666666666666
+Lady GaGa
+The Edge Of Glory
+143.0
+0.156
+Kesha
+We R Who We R
+128.0
+0.06477777777777778
+Hot Chelle Rae
+Tonight Tonight
+164.0
+0.059
+Kesha
+Blow
+100.0
+-0.018176470588235297
+Bad Meets Evil
+Lighters
+120.0
+-0.032000000000000015
+The Band Perry
+If I Die Young
+ 90.0
+0.103
+Gym Class Heroes
+Stereo Hearts
+131.0
+0.06360000000000002
+Diddy - Dirty Money
+Coming Home
+128.0
+0.023799999999999988
+Pitbull
+Hey Baby (Drop It To The Floor)
+ 84.0
+0.0003124999999999968
+Rihanna
+Only Girl (In The World)
+128.0
+0.17700000000000002
+Lil Wayne
+Six Foot Seven Foot
+126.0
+-0.08599999999999998
+Lady Antebellum
+Just A Kiss
+ 84.0
+0.047
+Jason Aldean
+Dirt Road Anthem
+143.4
+0.059
+Taio Cruz
+Dynamite
+127.0
+0.13799999999999998
+Waka Flocka Flame
+No Hands
+120.0
+-0.04316666666666666
+Britney Spears
+I Wanna Go
+131.5
+-0.205
+DJ Khaled
+I'm On One
+130.0
+0.03240000000000001
+Cobra Starship
+You Make Me Feel
+150.0
+0.026
+Chris Brown
+Yeah 3x
+132.0
+0.0734
+Nicki Minaj
+Moment 4 Life
+130.0
+0.021999999999999978
+Dr. Dre
+I Need A Doctor
+ 97.9
+-0.081
+Nelly
+Just A Dream
+156.0
+0.12171428571428572
+Kelly Rowland
+Motivation
+ 90.0
+0.08300000000000002
+Edward Maya
+Stereo Love
+141.0
+0.038555555555555565
+Christina Perri
+Jar Of Hearts
+127.0
+0.081
+Wiz Khalifa
+Roll Up
+103.8
+0.068
+LMFAO
+Sexy And I Know It
+ 94.0
+0.17875
+Far East Movement
+Rocketeer
+130.1
+0.063
+Kanye West
+All Of The Lights
+ 96.0
+0.038500000000000006
+Britney Spears
+Hold It Against Me
+142.0
+0.16037499999999996

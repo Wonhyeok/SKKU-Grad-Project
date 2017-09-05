@@ -1,0 +1,356 @@
+Lifehouse
+Hanging by a Moment
+124.6
+0.026999999999999996
+Alicia Keys
+Fallin'
+191.9
+-0.0030000000000000027
+Janet Jackson
+All for You
+113.5
+0.10124999999999999
+Train
+Drops of Jupiter (Tell Me)
+159.5
+0.0581
+Jennifer Lopez
+I'm Real
+111.0
+-0.007000000000000006
+Matchbox Twenty
+If You're Gone
+110.1
+-0.096
+Eve
+Let Me Blow Ya Mind
+ 90.1
+-0.018250000000000002
+Dido
+Thank You
+160.0
+0.21200000000000002
+Lenny Kravitz
+Again
+158.4
+0.081
+Blu Cantrell
+Hit 'Em Up Style
+ 90.0
+0.027999999999999997
+Shaggy
+It Wasn't Me
+ 94.7
+0.006687499999999999
+Joe
+Stutter
+ 87.0
+-0.242
+Usher
+U Remind Me
+ 91.7
+-0.005999999999999998
+Jagged Edge
+Where the Party At?
+ 97.0
+0.07800000000000001
+Shaggy
+Angel
+ 85.3
+0.157
+Nelly
+Ride Wit Me
+101.8
+-0.015565217391304353
+Uncle Kracker
+Follow Me
+105.0
+0.1634
+112
+Peaches & Cream
+101.9
+0.056999999999999995
+City High
+What Would You Do?
+ 96.0
+0.00799999999999998
+Christina Aguilera
+Lady Marmalade
+109.9
+-0.045
+OutKast
+Ms. Jackson
+ 95.0
+-0.010999999999999982
+Jennifer Lopez
+Love Don't Cost a Thing
+ 97.5
+0.05500000000000001
+Faith Hill
+The Way You Love Me
+101.6
+0.312
+Dream
+He Loves U Not
+ 95.1
+0.16599999999999998
+Crazy Town
+Butterfly
+103.5
+0.005250000000000005
+Ja Rule
+Put It on Me
+ 93.0
+0.0905
+Mary J. Blige
+Family Affair
+ 92.9
+0.08099999999999999
+Lee Ann Womack
+I Hope You Dance
+151.3
+0.3368
+Moby
+South Side
+ 97.1
+0.13
+Madonna
+Don't Tell Me
+100.0
+-0.153
+Missy Elliott
+Get Your Freak On
+ 88.9
+-0.11722222222222223
+K-Ci & JoJo
+Crazy
+116.0
+-0.15900000000000003
+Craig David
+Fill Me In
+132.5
+0.019473684210526317
+Janet Jackson
+Someone to Call My Lover
+127.9
+0.21150000000000002
+Creed
+With Arms Wide Open
+141.3
+0.18000000000000002
+O-Town
+All or Nothing
+127.1
+0.014999999999999986
+Nelly Furtado
+I'm Like a Bird
+ 89.6
+0.192
+3 Doors Down
+Kryptonite
+ 99.0
+0.13600000000000004
+R. Kelly
+Fiesta
+ 94.9
+0.03833333333333332
+Sugar Ray
+When It's Over
+ 99.9
+0.046999999999999986
+Aerosmith
+Jaded
+118.0
+-0.0665
+Jay-Z
+Izzo (H.O.V.A.)
+ 87.1
+-0.0047142857142857125
+Evan and Jaron
+Crazy for This Girl
+ 94.0
+-0.02176923076923077
+Christina Aguilera
+Nobody Wants to Be Lonely
+100.9
+-0.03900000000000001
+Jay-Z
+I Just Wanna Love You
+ 98.1
+0.0514
+Missy Elliott
+One Minute Man
+ 93.9
+-0.016
+Mystikal
+Danger
+ 98.0
+-0.21517999999999995
+Enya
+Only Time
+117.6
+0.07700000000000001
+Jessica Simpson
+Irresistible
+ 93.0
+0.12733333333333335
+Dave Matthews Band
+The Space Between
+ 85.1
+0.006499999999999978
+Faith Hill
+There You'll Be
+128.4
+0.1396666666666667
+Nelly Furtado
+Turn Off the Light
+ 90.2
+0.063
+Jennifer Lopez
+Play
+105.0
+0.13885714285714285
+Lonestar
+I'm Already There
+133.6
+0.10500000000000001
+U2
+Beautiful Day
+136.2
+0.134
+Ja Rule
+Livin' It Up
+106.0
+0.03887499999999999
+The Isley Brothers
+Contagious
+113.2
+-0.06475000000000003
+Jessica Andrews
+Who I Am
+ 84.1
+0.067
+Debelah Morgan
+Dance With Me
+133.0
+0.094
+3 Doors Down
+Be Like That
+ 96.0
+0.060461538461538455
+Pink
+Most Girls
+ 98.0
+0.09396969696969701
+Enrique Iglesias
+Hero
+152.0
+0.05735897435897437
+Nickelback
+How You Remind Me
+ 85.8
+-0.09721212121212122
+Ashanti
+Foolish
+ 90.2
+0.0085
+Nelly
+Hot in Herre
+106.6
+0.07550000000000001
+Nelly
+Dilemma
+ 84.0
+0.022999999999999993
+Vanessa Carlton
+A Thousand Miles
+ 95.0
+-0.017799999999999996
+Linkin Park
+In the End
+105.1
+-0.052
+Usher
+U Got It Bad
+124.0
+-0.126
+Puddle of Mudd
+Blurry
+157.5
+-0.08612500000000001
+Avril Lavigne
+Complicated
+156.0
+0.028142857142857164
+Ja Rule
+Always on Time
+ 96.6
+0.03499999999999999
+Jennifer Lopez
+Ain't It Funny
+ 89.4
+0.039999999999999994
+Jimmy Eat World
+The Middle
+162.2
+0.092
+P. Diddy
+I Need a Girl
+ 89.3
+0.032
+Usher
+U Don't Have to Call
+100.0
+0.22660000000000002
+Mary J. Blige
+Family Affair
+ 92.9
+0.08099999999999999
+Eve
+Gangsta Lovin'
+ 94.4
+0.19666666666666666
+Eminem
+Without Me
+112.2
+0.010999999999999996
+Enrique Iglesias
+Hero
+152.0
+0.05735897435897437
+Michelle Branch
+All You Wanted
+ 96.1
+0.13999999999999999
+Pink
+Get This Party Started
+128.9
+0.22499999999999998
+Chad Kroeger
+Hero
+147.4
+0.24350000000000002
+Default
+Wasting My Time
+148.0
+-0.1325
+Creed
+One Last Breath
+130.3
+0.045
+Shakira
+Whenever, Wherever
+107.7
+0.16599999999999998
+Jennifer Lopez
+I'm Gonna Be Alright
+ 94.0
+0.029000000000000005
+Cam'ron
+Oh Boy
+ 83.0
+-0.022499999999999992
+DJ Sammy
+Heaven
+138.0
+0.139

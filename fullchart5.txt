@@ -1,0 +1,516 @@
+Chingy
+Pullin' Me Back
+160.0
+-0.03650000000000001
+Kelis
+Bossy
+ 84.0
+-0.0034666666666666665
+Jibbs
+Chain Hang Low
+157.0
+-0.0049999999999999975
+Akon
+Smack That
+119.0
+0.0037499999999999964
+Ray J
+One Wish
+128.1
+0.357
+Fall Out Boy
+Sugar, We're Goin Down
+162.0
+0.03325
+Chris Brown
+Gimme That Remix
+ 87.2
+-6.938893903907228e-18
+Yung Joc
+I Know You See It
+ 84.1
+0.016000000000000014
+Bon Jovi
+Who Says You Can't Go Home
+131.7
+0.14988888888888888
+Jojo
+Too Little, Too Late
+ 83.0
+0.06957142857142859
+Busta Rhymes
+Touch It
+102.0
+-0.06993333333333335
+Daddy Yankee
+Rompe
+ 88.0
+0.0009300000000000003
+Rascal Flatts
+Life Is a Highway
+103.1
+0.063
+Evanescence
+Call Me When You're Sober
+ 93.5
+0.06949999999999998
+Carrie Underwood
+Jesus Take the Wheel
+152.0
+0.031999999999999994
+Danity Kane
+Show Stopper
+152.0
+0.11659375000000001
+Ciara
+Get Up
+128.7
+0.022500000000000003
+Sean Paul
+We Be Burnin'
+117.0
+0.1002
+Blue October
+Hate Me
+ 93.0
+0.032937500000000015
+Lifehouse
+You & Me
+139.9
+0.0808
+The Pussycat Dolls
+Beep
+103.6
+0.1265
+Chris Brown
+Say Goodbye
+115.0
+-0.0022000000000000075
+John Mayer
+Waiting on the World to Change
+ 88.1
+-0.008000000000000007
+Young Jeezy
+Soul Survivor
+ 84.1
+0.02050000000000001
+Black Eyed Peas
+Pump It
+153.6
+0.004333333333333342
+Eminem
+When I'm Gone
+150.0
+0.044571428571428595
+Madonna
+Hung Up
+125.0
+-0.065
+Three 6 Mafia
+Stay Fly
+133.3
+0.07500000000000002
+Keyshia Cole
+Love
+116.6
+0.024500000000000008
+Ne-Yo
+When You're Mad
+ 87.0
+-0.012799999999999992
+T.I.
+Why You Wanna
+ 96.0
+0.06345
+Pink
+Stupid Girls
+100.0
+0.07785714285714286
+Gorillaz
+Feel Good Inc.
+138.5
+-0.0005000000000000282
+T-Pain
+I'm Sprung
+100.0
+0.02566666666666667
+Taylor Hicks
+Do I Make You Proud
+144.0
+0.25283333333333335
+Teddy Geiger
+Confidence (For You I Will)
+ 89.9
+0.08299999999999999
+Beyonce
+Irreplaceable
+ 88.0
+0.026
+Rihanna
+Umbrella
+ 87.0
+0.0615
+Gwen Stefani
+The Sweet Escape
+120.0
+0.06685714285714288
+Fergie
+Big Girls Don't Cry
+113.1
+0.16699999999999998
+T-Pain
+Buy U a Drank (Shawty Snappin')
+160.0
+0.023999999999999997
+Carrie Underwood
+Before He Cheats
+148.0
+-0.022000000000000006
+Akon
+I Wanna Love You
+100.0
+-0.059
+Nelly Furtado
+Say It Right
+117.0
+0.030500000000000003
+Fergie
+Glamourous
+131.0
+0.342
+Akon
+Don't Matter
+125.2
+0.023999999999999994
+Avril Lavigne
+Girlfriend
+164.0
+-0.1206608695652174
+Maroon 5
+Makes Me Wonder
+114.0
+-0.01899999999999999
+Shop Boyz
+Party Like a Rock Star
+145.0
+0.33667857142857144
+Akon
+Smack That
+119.0
+0.0037499999999999964
+Mims
+This Is Why I'm Hot
+160.0
+0.019750000000000004
+Daughtry
+It's Not Over
+146.0
+0.06774999999999998
+Timbaland
+The Way I Are
+114.7
+0.6355555555555555
+Fergie
+Fergalicious
+129.0
+0.054000000000000006
+Soulja Boy
+Crank That (Soulja Boy)
+140.0
+0.022513513513513515
+Timbaland
+Give It to Me
+110.7
+0.032
+Justin Timberlake
+What Goes Around...
+152.0
+0.035500000000000004
+Gym Class Heroes
+Cupids Chokehold
+160.1
+0.042499999999999996
+The Fray
+How to Save a Life
+122.0
+0.038000000000000006
+Daughtry
+Home
+144.0
+0.11599999999999999
+Justin Timberlake
+My Love
+120.0
+0.10890000000000002
+Kanye West
+Stronger
+104.0
+0.0015000000000000152
+Jim Jones
+We Fly High
+ 90.0
+-0.010826086956521722
+Pink
+U + Ur Hand
+141.0
+-0.020666666666666667
+DJ Unk
+Walk It Out
+160.0
+-0.009499999999999995
+Sean Kingston
+Beautiful Girls
+130.0
+-0.03733333333333333
+Fall Out Boy
+This Ain't a Scene, It's an Arms Race
+100.0
+0.116
+T-Pain
+Bartender
+105.0
+0.03800000000000001
+Huey
+Pop Lock And Drop It
+144.0
+-0.047
+Ludacris
+Runaway Love
+ 91.7
+0.21725
+Nickelback
+Rockstar
+143.9
+0.08200000000000002
+Fall Out Boy
+Thnks Fr Th Mmrs
+154.8
+0.16833333333333333
+Linkin Park
+What I've Done
+120.1
+0.0040000000000000036
+Justin Timberlake
+Summer Love
+ 95.9
+0.206
+Lloyd Polite
+You
+ 98.0
+0.233
+Elliott Yamin
+Wait for You
+116.0
+0.0008333333333333387
+Diddy
+Last Night
+121.0
+0.08841304347826086
+Fat Joe
+Make It Rain on 'Em
+149.3
+-0.13699999999999998
+Fabolous
+Make Me Better
+ 86.5
+0.1356363636363636
+Omarion
+Ice Box
+131.1
+0.03700000000000001
+Hinder
+Lips of an Angel
+129.0
+-0.013499999999999984
+John Mayer
+Waiting on the World to Change
+ 88.1
+-0.008000000000000007
+Robin Thicke
+Lost Without U
+ 85.1
+0.15100000000000002
+Nickelback
+If Everyone Cared
+131.6
+0.065
+Lloyd Polite
+Get It Shawty
+128.0
+0.034
+The Red Jumpsuit Apparatus
+Face Down
+ 93.0
+0.13380000000000003
+Baby Boy Da Prince
+The Way I Live
+ 90.0
+-0.011303571428571427
+Bow Wow
+Shortie Like Mine
+142.0
+0.042550000000000004
+The All-American Rejects
+It Ends Tonight
+ 87.9
+-0.08600000000000002
+Hurricane Chris
+A Bay Bay
+154.0
+0.057999999999999996
+Ne-Yo
+Because of You
+110.0
+0.006999999999999992
+Bone Thugs-N-Harmony
+I Tried
+164.0
+-0.0076153846153845794
+My Chemical Romance
+Welcome to the Black Parade
+ 96.9
+-0.14679999999999999
+T-Pain
+Buy U a Drank (Shawty Snappin')
+160.0
+0.023999999999999997
+Snow Patrol
+Chasing Cars
+104.0
+-0.03224999999999999
+Shakira
+Beautiful Liar
+ 92.0
+0.11174999999999999
+Justin Timberlake
+SexyBack
+117.0
+0.32510000000000006
+Avril Lavigne
+Keep Holding On
+161.0
+0.041999999999999996
+Keyshia Cole
+Let It Go
+ 94.9
+-0.008000000000000007
+Timbaland
+Apologize
+118.0
+0.10200000000000001
+Colbie Caillat
+Bubbly
+128.0
+0.09666666666666666
+Ciara
+Like a Boy
+131.9
+0.08255813953488368
+Pink
+Who Knew
+140.0
+0.14700000000000002
+Kelly Clarkson
+Never Again
+145.9
+-0.023285714285714285
+Ciara
+Promise
+123.1
+0.11675
+J. Holiday
+Bed
+128.0
+0.3354
+Rich Boy
+Throw Some D's
+160.8
+-0.0866
+Amy Winehouse
+Rehab
+145.5
+-0.072
+T.I.
+Big Things Poppin'
+ 84.5
+0.03642857142857143
+Alicia Keys
+No One
+ 90.0
+-0.044999999999999984
+Boys Like Girls
+The Great Escape
+150.0
+0.048000000000000015
+DJ Unk
+2 Step
+154.0
+0.019571428571428573
+Paula DeAnda
+Walk Away
+156.0
+0.132
+Young Jeezy
+Go Getta
+ 87.0
+-0.07133333333333332
+Hellogoodbye
+Here (In Your Arms)
+126.0
+0.06399999999999997
+Pretty Ricky
+On the Hotline
+ 93.0
+0.07750000000000001
+Gwen Stefani
+Wind It Up
+120.0
+0.04173809523809525
+Baby Bash
+Cyclone
+156.0
+0.11566666666666671
+Sean Paul
+Break It Off
+134.0
+0.020499999999999997
+Lifehouse
+First Time
+130.8
+0.12100000000000001
+50 Cent
+Ayo Technology
+140.1
+-0.004999999999999984
+Bow Wow
+Outta My System
+ 84.0
+0.04080000000000002
+Taylor Swift
+Teardrops on My Guitar
+100.0
+0.09950000000000002
+Rihanna
+Shut Up And Drive
+133.0
+0.0306
+Red Hot Chili Peppers
+Snow (Hey Oh)
+105.5
+0.10499999999999998
+Ludacris
+Money Maker
+ 84.0
+0.025999999999999995
+Chris Brown
+Kiss Kiss
+140.0
+0.0574
+Nickelback
+Far Away
+133.0
+0.098
+Crime Mob
+Rock Yo Hips
+155.0
+-0.0049999999999999975
